@@ -1,3 +1,8 @@
 [submodule "caf"]
 	path = caf
 	url = https://github.com/zeek/actor-framework
+[submodule "libuv"]
+	path = libuv
+	url = https://github.com/libuv/libuv
+        # Commit for v1.31.0 tag
+	branch = 0a6771cee4c15184c924bfe9d397bdd0c3b206ba
